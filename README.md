@@ -1,3 +1,3 @@
 # CarREST
 
-Zamanov Spring Progect
+Zamanov Spring Project
